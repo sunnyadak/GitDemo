@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-this is slavefile2.txt in slave 2 branch
-=======
-This is slavefile2
-this is done in slave branch
->>>>>>> slave
